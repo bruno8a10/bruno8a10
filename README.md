@@ -24,7 +24,8 @@ Here are some ideas to get you started:
    “data” : 
      { 
       "Linkedin" : "https://www.linkedin.com/in/bruno-ochoa-87666a1b6/", 
-      "Resume"   : "https://github.com/bruno8a10",
+      "Correo"   : "Bruno8a108a@gmail.com",
+      "Github"   : "https://github.com/bruno8a10",
       "IG"       : "https://www.instagram.com/bruno8a_10/?hl=es"
      }
  }
