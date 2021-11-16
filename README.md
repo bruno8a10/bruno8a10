@@ -100,7 +100,6 @@ Soy Analista programador universitario en la Universidad Nacional de Jujuy y alu
 <a target="_blank" href="https://dev.to/envoy_/150-badges-for-github-pnk">150+ Badgets aquí!</a>
 
 ### Github Stats
-(Thank you <a target="_blank" href="https://github.com/anuraghazra/github-readme-stats">Anuraghazra</a>)
 
 <table>
   <tr>
